@@ -1,5 +1,5 @@
 # CS-control
-A GUI for controlling CS 1.6 servers with RCON.  
+A GUI for controlling CS 1.6 servers with RCON.  (WIP, no changes as of now)
   
 ![](https://i.imgur.com/z5E6Uhx.png)  
 *Main window*
